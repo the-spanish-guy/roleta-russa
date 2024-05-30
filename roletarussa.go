@@ -37,7 +37,7 @@ func main() {
 		fmt.Println("Deu sorte!")
 	}
 
-	// test signed commit
+	// test signed commit 2
 
 	fmt.Println("Done ✨")
 }
