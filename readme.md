@@ -4,7 +4,7 @@
     <h1>RUSSA</h1>
   </div>
   <div style="margin-right: 60px">
-	  <img src="./logo2.svg" width="200" height="200" />
+	  <img src="./assets/logo2.svg" width="200" height="200" />
   </div>
 
 </div>
