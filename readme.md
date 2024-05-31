@@ -1,13 +1,17 @@
-<div style="display: flex; justify-content: space-between; width: 100vw; height: auto;">
-  <div>
-    <h1>ROLETA</h1>
-    <h1>RUSSA</h1>
-  </div>
-  <div style="margin-right: 60px">
-	  <img src="./assets/logo2.svg" width="200" height="200" />
-  </div>
+# Roleta Russa
 
-</div>
+> [!Warning]
+> Antes de começar cuidado !
+> Sempre execute numa vm os scripts listados acima!
+
+<img src="./assets/logo.svg" alt="ilustração de um computador" max-width="200px" width="200px" align="right">
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ---
 
