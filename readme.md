@@ -1,6 +1,6 @@
-# Roleta Russa
-
 <img src="./assets/logo.svg" alt="ilustração de um computador" max-width="200px" width="200px" align="right">
+
+# Roleta Russa
 
 > [!Warning]
 > Antes de começar cuidado !
