@@ -1,18 +1,13 @@
 <img src="./assets/logo.svg" alt="ilustração de um computador" max-width="200px" width="200px" align="right">
 
-# Roleta Russa
+<div style="width:200px;">
+  <span style="font-size: 2rem;">Roleta Russa</span>
+</div>
 
 > [!Warning]
 > Antes de começar cuidado !
 > Sempre execute numa vm os scripts listados acima!
 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 
