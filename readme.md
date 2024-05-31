@@ -1,8 +1,6 @@
 <img src="./assets/logo.svg" alt="ilustração de um computador" max-width="200px" width="200px" align="right">
 
-<div style="width:200px;">
-  <span style="font-size: 2rem;">Roleta Russa</span>
-</div>
+# Roleta Russa
 
 > [!Warning]
 > Antes de começar cuidado !
