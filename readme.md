@@ -1,10 +1,11 @@
 # Roleta Russa
 
+<img src="./assets/logo.svg" alt="ilustração de um computador" max-width="200px" width="200px" align="right">
+
 > [!Warning]
 > Antes de começar cuidado !
 > Sempre execute numa vm os scripts listados acima!
 
-<img src="./assets/logo.svg" alt="ilustração de um computador" max-width="200px" width="200px" align="right">
 
 </br>
 </br>
