@@ -1,4 +1,4 @@
-<img src="./assets/logo.svg" alt="ilustração de um computador" max-width="200px" width="200px" align="right">
+<img src="./assets/logo_cinza.svg" alt="ilustração de um computador" max-width="200px" width="200px" align="right">
 
 # Roleta Russa
 
